@@ -1,0 +1,393 @@
+fileFormatVersion: 2
+guid: bd3a30cfc45c9fc4b98a319832796036
+timeCreated: 1485613695
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: brunnen
+    100004: brunnen 1
+    100006: brunnen3
+    100008: brunnen4
+    100010: brunnen5
+    100012: brunnen6
+    100014: dach1
+    100016: dachshalter1
+    100018: dachshalter2
+    100020: dachshalter3
+    100022: dachshalter4
+    100024: group1
+    100026: group1 1
+    100028: group1 2
+    100030: holzdreh
+    100032: holzdreh 1
+    100034: holzdreh 2
+    100036: pCube20
+    100038: pCube20 1
+    100040: pCube20 2
+    100042: pCube22
+    100044: pCube22 1
+    100046: pCube22 2
+    100048: pCube23
+    100050: pCube23 1
+    100052: pCube23 2
+    100054: pCube24
+    100056: pCube24 1
+    100058: pCube24 2
+    100060: pCube25
+    100062: pCube25 1
+    100064: pCube25 2
+    100066: pCube26
+    100068: pCube26 1
+    100070: pCube26 2
+    100072: pCube31
+    100074: pCube36
+    100076: pCube37
+    100078: pCube38
+    100080: pCube39
+    100082: pCube40
+    100084: pCube41
+    100086: pCube42
+    100088: pCube43
+    100090: pCube44
+    100092: pCube45
+    100094: pCube46
+    100096: pCube47
+    100098: pCube48
+    100100: pCube49
+    100102: pCube50
+    100104: polySurface1
+    100106: polySurface1 1
+    100108: polySurface1 2
+    100110: polySurface2
+    100112: polySurface2 1
+    100114: pPlane1
+    100116: rad
+    100118: rad 1
+    100120: rad 2
+    100122: roof_ornament
+    100124: roof_ornament 1
+    100126: seil
+    100128: stempen1
+    100130: stempen1 1
+    100132: stempen3
+    100134: stempen3 1
+    100136: stempen3 2
+    100138: stempen4
+    400000: //RootNode
+    400002: brunnen
+    400004: brunnen 1
+    400006: brunnen3
+    400008: brunnen4
+    400010: brunnen5
+    400012: brunnen6
+    400014: dach1
+    400016: dachshalter1
+    400018: dachshalter2
+    400020: dachshalter3
+    400022: dachshalter4
+    400024: group1
+    400026: group1 1
+    400028: group1 2
+    400030: holzdreh
+    400032: holzdreh 1
+    400034: holzdreh 2
+    400036: pCube20
+    400038: pCube20 1
+    400040: pCube20 2
+    400042: pCube22
+    400044: pCube22 1
+    400046: pCube22 2
+    400048: pCube23
+    400050: pCube23 1
+    400052: pCube23 2
+    400054: pCube24
+    400056: pCube24 1
+    400058: pCube24 2
+    400060: pCube25
+    400062: pCube25 1
+    400064: pCube25 2
+    400066: pCube26
+    400068: pCube26 1
+    400070: pCube26 2
+    400072: pCube31
+    400074: pCube36
+    400076: pCube37
+    400078: pCube38
+    400080: pCube39
+    400082: pCube40
+    400084: pCube41
+    400086: pCube42
+    400088: pCube43
+    400090: pCube44
+    400092: pCube45
+    400094: pCube46
+    400096: pCube47
+    400098: pCube48
+    400100: pCube49
+    400102: pCube50
+    400104: polySurface1
+    400106: polySurface1 1
+    400108: polySurface1 2
+    400110: polySurface2
+    400112: polySurface2 1
+    400114: pPlane1
+    400116: rad
+    400118: rad 1
+    400120: rad 2
+    400122: roof_ornament
+    400124: roof_ornament 1
+    400126: seil
+    400128: stempen1
+    400130: stempen1 1
+    400132: stempen3
+    400134: stempen3 1
+    400136: stempen3 2
+    400138: stempen4
+    2300000: brunnen 1
+    2300002: brunnen5
+    2300004: brunnen6
+    2300006: dachshalter1
+    2300008: dachshalter2
+    2300010: dachshalter3
+    2300012: dachshalter4
+    2300014: pCube20
+    2300016: pCube20 1
+    2300018: pCube20 2
+    2300020: pCube22
+    2300022: pCube22 1
+    2300024: pCube22 2
+    2300026: pCube23
+    2300028: pCube23 1
+    2300030: pCube23 2
+    2300032: pCube24
+    2300034: pCube24 1
+    2300036: pCube24 2
+    2300038: pCube25
+    2300040: pCube25 1
+    2300042: pCube25 2
+    2300044: pCube26
+    2300046: pCube26 1
+    2300048: pCube26 2
+    2300050: pCube31
+    2300052: pCube36
+    2300054: pCube37
+    2300056: pCube38
+    2300058: pCube39
+    2300060: pCube40
+    2300062: pCube41
+    2300064: pCube42
+    2300066: pCube43
+    2300068: pCube44
+    2300070: pCube45
+    2300072: pCube46
+    2300074: pCube47
+    2300076: pCube48
+    2300078: pCube49
+    2300080: pCube50
+    2300082: polySurface1
+    2300084: polySurface1 1
+    2300086: polySurface1 2
+    2300088: polySurface2
+    2300090: polySurface2 1
+    2300092: pPlane1
+    2300094: rad
+    2300096: rad 1
+    2300098: rad 2
+    2300100: roof_ornament
+    2300102: roof_ornament 1
+    2300104: seil
+    2300106: stempen1
+    2300108: stempen1 1
+    2300110: stempen3
+    2300112: stempen3 1
+    2300114: stempen3 2
+    2300116: stempen4
+    3300000: brunnen 1
+    3300002: brunnen5
+    3300004: brunnen6
+    3300006: dachshalter1
+    3300008: dachshalter2
+    3300010: dachshalter3
+    3300012: dachshalter4
+    3300014: pCube20
+    3300016: pCube20 1
+    3300018: pCube20 2
+    3300020: pCube22
+    3300022: pCube22 1
+    3300024: pCube22 2
+    3300026: pCube23
+    3300028: pCube23 1
+    3300030: pCube23 2
+    3300032: pCube24
+    3300034: pCube24 1
+    3300036: pCube24 2
+    3300038: pCube25
+    3300040: pCube25 1
+    3300042: pCube25 2
+    3300044: pCube26
+    3300046: pCube26 1
+    3300048: pCube26 2
+    3300050: pCube31
+    3300052: pCube36
+    3300054: pCube37
+    3300056: pCube38
+    3300058: pCube39
+    3300060: pCube40
+    3300062: pCube41
+    3300064: pCube42
+    3300066: pCube43
+    3300068: pCube44
+    3300070: pCube45
+    3300072: pCube46
+    3300074: pCube47
+    3300076: pCube48
+    3300078: pCube49
+    3300080: pCube50
+    3300082: polySurface1
+    3300084: polySurface1 1
+    3300086: polySurface1 2
+    3300088: polySurface2
+    3300090: polySurface2 1
+    3300092: pPlane1
+    3300094: rad
+    3300096: rad 1
+    3300098: rad 2
+    3300100: roof_ornament
+    3300102: roof_ornament 1
+    3300104: seil
+    3300106: stempen1
+    3300108: stempen1 1
+    3300110: stempen3
+    3300112: stempen3 1
+    3300114: stempen3 2
+    3300116: stempen4
+    4300000: brunnen
+    4300002: stempen1
+    4300004: stempen3
+    4300006: roof_ornament
+    4300008: pCube31
+    4300010: pCube36
+    4300012: pCube37
+    4300014: pCube38
+    4300016: pCube39
+    4300018: pCube40
+    4300020: pCube41
+    4300022: pCube42
+    4300024: pCube43
+    4300026: pCube44
+    4300028: pCube45
+    4300030: pCube46
+    4300032: pCube47
+    4300034: pCube48
+    4300036: pCube49
+    4300038: pCube50
+    4300040: polySurface1
+    4300042: seil
+    4300044: rad
+    4300046: pCube20
+    4300048: pCube22
+    4300050: pCube23
+    4300052: pCube24
+    4300054: pCube25
+    4300056: pCube26
+    4300058: dachshalter1
+    4300060: dachshalter2
+    4300062: brunnen5
+    4300064: brunnen6
+    4300066: polySurface1
+    4300068: polySurface2
+    4300070: rad
+    4300072: pCube20
+    4300074: pCube22
+    4300076: pCube23
+    4300078: pCube24
+    4300080: pCube25
+    4300082: pCube26
+    4300084: stempen3
+    4300086: stempen4
+    4300088: stempen1
+    4300090: roof_ornament
+    4300092: polySurface1
+    4300094: polySurface2
+    4300096: rad
+    4300098: pCube20
+    4300100: pCube22
+    4300102: pCube23
+    4300104: pCube24
+    4300106: pCube25
+    4300108: pCube26
+    4300110: stempen3
+    4300112: dachshalter3
+    4300114: dachshalter4
+    4300116: pPlane1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

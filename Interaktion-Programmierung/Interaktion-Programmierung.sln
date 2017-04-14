@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interaktion-Programmierung.Plugins", "Interaktion-Programmierung.Plugins.csproj", "{668E887C-FB06-79AD-9BBC-5054395C713F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interaktion-Programmierung", "Interaktion-Programmierung.csproj", "{F3914BA7-2CE2-931E-A2F8-46B4EED77338}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interaktion-Programmierung.Editor.Plugins", "Interaktion-Programmierung.Editor.Plugins.csproj", "{AA37F5EE-968E-483A-A5CF-0EAEB4076FF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interaktion-Programmierung.Editor", "Interaktion-Programmierung.Editor.csproj", "{67F87277-25BC-989D-B605-1EBEF7ABDD40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{668E887C-FB06-79AD-9BBC-5054395C713F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{668E887C-FB06-79AD-9BBC-5054395C713F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{668E887C-FB06-79AD-9BBC-5054395C713F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{668E887C-FB06-79AD-9BBC-5054395C713F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3914BA7-2CE2-931E-A2F8-46B4EED77338}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3914BA7-2CE2-931E-A2F8-46B4EED77338}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3914BA7-2CE2-931E-A2F8-46B4EED77338}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3914BA7-2CE2-931E-A2F8-46B4EED77338}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA37F5EE-968E-483A-A5CF-0EAEB4076FF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA37F5EE-968E-483A-A5CF-0EAEB4076FF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA37F5EE-968E-483A-A5CF-0EAEB4076FF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA37F5EE-968E-483A-A5CF-0EAEB4076FF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67F87277-25BC-989D-B605-1EBEF7ABDD40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67F87277-25BC-989D-B605-1EBEF7ABDD40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67F87277-25BC-989D-B605-1EBEF7ABDD40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67F87277-25BC-989D-B605-1EBEF7ABDD40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

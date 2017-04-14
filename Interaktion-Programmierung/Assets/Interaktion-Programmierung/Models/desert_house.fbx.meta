@@ -1,0 +1,217 @@
+fileFormatVersion: 2
+guid: 61eed2be0b29fd542b2f106bc83ad533
+timeCreated: 1485617118
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: d_window1
+    100002: d_window2
+    100004: desert2
+    100006: //RootNode
+    100008: desert_house
+    100010: door
+    100012: door2
+    100014: leadder
+    100016: pCube1
+    100018: pCube11
+    100020: pCube12
+    100022: pCube13
+    100024: pCube2
+    100026: pCube5
+    100028: pCube8
+    100030: pillow
+    100032: polySurface1
+    100034: pPlane1
+    100036: pPlane2
+    100038: pPlane3
+    100040: pPlane5
+    100042: transform1
+    100044: transform10
+    100046: transform11
+    100048: transform12
+    100050: transform13
+    100052: transform14
+    100054: transform15
+    100056: transform16
+    100058: transform17
+    100060: transform18
+    100062: transform19
+    100064: transform2
+    100066: transform20
+    100068: transform21
+    100070: transform22
+    100072: transform23
+    100074: transform24
+    100076: transform25
+    100078: transform26
+    100080: transform27
+    100082: transform28
+    100084: transform29
+    100086: transform3
+    100088: transform30
+    100090: transform4
+    100092: transform5
+    100094: transform6
+    100096: transform7
+    100098: transform8
+    100100: transform9
+    100102: wood_pillar31
+    100104: wood_pillar32
+    100106: wood_pillar34
+    100108: wood_pillar35
+    100110: wood_pillar36
+    100112: wood_pillar37
+    100114: wood_pillar38
+    100116: wood_pillar39
+    100118: wood_pillar40
+    100120: wood_pillar41
+    100122: wood_pillar42
+    100124: wood_pillar43
+    100126: wood_pillar44
+    100128: wood_pillar45
+    100130: wood_pillar46
+    100132: wood_pillar47
+    100134: wood_pillar48
+    100136: wood_pillar49
+    400000: d_window1
+    400002: d_window2
+    400004: desert2
+    400006: //RootNode
+    400008: desert_house
+    400010: door
+    400012: door2
+    400014: leadder
+    400016: pCube1
+    400018: pCube11
+    400020: pCube12
+    400022: pCube13
+    400024: pCube2
+    400026: pCube5
+    400028: pCube8
+    400030: pillow
+    400032: polySurface1
+    400034: pPlane1
+    400036: pPlane2
+    400038: pPlane3
+    400040: pPlane5
+    400042: transform1
+    400044: transform10
+    400046: transform11
+    400048: transform12
+    400050: transform13
+    400052: transform14
+    400054: transform15
+    400056: transform16
+    400058: transform17
+    400060: transform18
+    400062: transform19
+    400064: transform2
+    400066: transform20
+    400068: transform21
+    400070: transform22
+    400072: transform23
+    400074: transform24
+    400076: transform25
+    400078: transform26
+    400080: transform27
+    400082: transform28
+    400084: transform29
+    400086: transform3
+    400088: transform30
+    400090: transform4
+    400092: transform5
+    400094: transform6
+    400096: transform7
+    400098: transform8
+    400100: transform9
+    400102: wood_pillar31
+    400104: wood_pillar32
+    400106: wood_pillar34
+    400108: wood_pillar35
+    400110: wood_pillar36
+    400112: wood_pillar37
+    400114: wood_pillar38
+    400116: wood_pillar39
+    400118: wood_pillar40
+    400120: wood_pillar41
+    400122: wood_pillar42
+    400124: wood_pillar43
+    400126: wood_pillar44
+    400128: wood_pillar45
+    400130: wood_pillar46
+    400132: wood_pillar47
+    400134: wood_pillar48
+    400136: wood_pillar49
+    2300000: desert_house
+    3300000: desert_house
+    4300000: desert_house
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
